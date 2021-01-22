@@ -1,0 +1,13 @@
+ { 
+  "clients_id": 1,
+  "first_name": "John",
+  "last_name": "Smith",
+  "address": "1915 100th St",
+  "city": "Lubbock",
+  "county": "Lubbock",
+  "state": "Texas",
+  "zip": 79423,
+  "phone1": 8065498241,
+  "cell": 8065498241,
+  "email": "rockman4417@gmail.com"
+ }

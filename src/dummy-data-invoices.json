@@ -1,0 +1,50 @@
+{
+   "invoices": [
+
+    {
+        "invoice_id": 1,
+        "date_created": "10/10/10",
+        "client_name": "STANNIS BARATHEON",
+        "clients_id": "1",
+        "paid_unpaid": "true",
+        "date_owed": "1",
+        "scheduled_inprogress_complete": "in-progress",
+        "temps_id": "1",
+        "extras": "none",
+        "notes": "none",
+        "total_amount": 100,
+        "product_or_job": "job"
+    },
+
+    {
+        "invoice_id": 1,
+        "date_created": "10/10/10",
+        "client_name": "JAIME LANNISTER",
+        "clients_id": "1",
+        "paid_unpaid": "true",
+        "date_owed": "1",
+        "scheduled_inprogress_complete": "in-progress",
+        "temps_id": "1",
+        "extras": "none",
+        "notes": "none",
+        "total_amount": 150,
+        "product_or_job": "product"
+    },
+    {
+        "invoice_id": 1,
+        "date_created": "10/10/10",
+        "client_name": "ROB STARK",
+        "clients_id": "1",
+        "paid_unpaid": "true",
+        "date_owed": "1",
+        "scheduled_inprogress_complete": "in-progress",
+        "temps_id": "1",
+        "extras": "none",
+        "notes": "none",
+        "total_amount": 200,
+        "product_or_job": "job"
+    }
+    ] 
+}
+
+

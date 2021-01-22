@@ -5,12 +5,20 @@ import Container from '@material-ui/core/Container';
 
 import FloatingActionButton from '../Buttons/FloatingActionButton'
 
+
 export default function SimpleContainer() {
   return (
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="sm">
-        <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }} ><FloatingActionButton/></Typography>
+        <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }} >
+            <FloatingActionButton/>
+            
+        
+        
+        
+        </Typography>
+        
         
       </Container>
     </React.Fragment>

@@ -1,0 +1,29 @@
+{
+   "templates": [
+
+        {
+            "temp_id": 1,
+            "temp_name": "Chris Foy",
+            "temp_amount": "$100",
+            "product_service": "service",
+            "temp_description": "it was a job"
+        },
+
+        {
+            "temp_id": 1,
+            "temp_name": "Stannis Baratheon",
+            "temp_amount": "$1",
+            "product_service": "service",
+            "temp_description": "it was a job"
+        },
+        {
+            "temp_id": 1,
+            "temp_name": "John Smith",
+            "temp_amount": "$100",
+            "product_service": "service",
+            "temp_description": "it was a job"
+        }
+    ] 
+}
+
+

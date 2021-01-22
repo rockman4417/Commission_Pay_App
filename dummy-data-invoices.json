@@ -1,0 +1,12 @@
+{
+    "invoice_id": 1,
+    "date_created": "10/10/10",
+    "client_name": "JOHN SMITH",
+    "clients_id": "1",
+    "paid_unpaid": "true",
+    "date_owed": "1",
+    "scheduled_inprogress_complete": "in-progress",
+    "temps_id": "1",
+    "extras": "none",
+    "notes": "none"
+}
